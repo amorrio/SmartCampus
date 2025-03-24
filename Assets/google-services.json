@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "892637808796",
+    "firebase_url": "https://smartcampussti-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "smartcampussti",
+    "storage_bucket": "smartcampussti.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:892637808796:android:d869d09a6fed4410060559",
+        "android_client_info": {
+          "package_name": "com.STI.SmartCampus"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA78Pk0NoeP3q_oNQ69f6CLUelbbnvU3Z4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
